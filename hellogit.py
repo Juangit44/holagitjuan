@@ -1,0 +1,2 @@
+print("hola git")
+print("que tal soy curso")
